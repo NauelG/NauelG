@@ -13,14 +13,14 @@ I'm a Full Stack developer and team lead who really loves Typescript and Linux. 
 
 <p align="center">
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/nauelg#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nauelg#gh-dark-mode-only)
+<p><a href="https://linkedin.com/in/nauelg#gh-light-mode-only"><img src="./img/linkedin-light.svg" alt="website"></a>
+<a href="https://linkedin.com/in/nauelg#gh-dark-mode-only"><img src="./img/linkedin-dark.svg" alt="website"></a>
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/nauelg#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/nauelg#gh-dark-mode-only)
+<a href="https://twitter.com/nauelg#gh-light-mode-only"><img src="./img/twitter-light.svg" alt="website"></a>
+<a href="https://twitter.com/nauelg#gh-dark-mode-only"><img src="./img/twitter-dark.svg" alt="website"></a>
 &nbsp;&nbsp;
-[![website](./img/globe-light.svg)](https://re7systems.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://re7systems.com#gh-dark-mode-only)
+<a href="https://re7systems.com#gh-light-mode-only"><img src="./img/globe-light.svg" alt="website"></a>
+<a href="https://re7systems.com#gh-dark-mode-only"><img src="./img/globe-dark.svg" alt="website"></a></p>
 
 </p>
 
