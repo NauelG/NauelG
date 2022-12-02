@@ -19,6 +19,15 @@ I'm a Full Stack developer and team lead who really loves Typescript and Linux. 
 
 <br />
 
+#### 💬&nbsp;&nbsp;&nbsp;Contact
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/nauelg#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nauelg#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/nauelg#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/nauelg#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/globe-light.svg)](https://re7systems.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://re7systems.com#gh-dark-mode-only)
 
 
 
