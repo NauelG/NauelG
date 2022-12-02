@@ -11,7 +11,7 @@
 I'm a Full Stack developer and team lead who really loves Typescript and Linux. Currently working with Angular, NestJS, React Native, Express and others.
 <br />
 
-< align="center">
+<p align="center">
 
 <a href="https://linkedin.com/in/nauelg#gh-light-mode-only"><img src="./img/linkedin-light.svg" alt="website"></a>
 <a href="https://linkedin.com/in/nauelg#gh-dark-mode-only"><img src="./img/linkedin-dark.svg" alt="website"></a>
