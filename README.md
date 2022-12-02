@@ -22,6 +22,8 @@ I'm a Full Stack developer and team lead who really loves Typescript and Linux. 
 [![website](./img/globe-light.svg)](https://re7systems.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://re7systems.com#gh-dark-mode-only)
 
+</p>
+
 <br />
 
 #### 💻&nbsp;&nbsp;&nbsp;Working on
