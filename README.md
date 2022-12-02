@@ -6,10 +6,9 @@
   </a>
 </p>
 
-
 -----------
 
-I'm a Full Stack developer and team lead who really loves Typescript and Linux.
+I'm a Full Stack developer and team lead who really loves Typescript and Linux. Currently working with Angular, NestJS, React Native, Express and others.
 
 <br />
 
