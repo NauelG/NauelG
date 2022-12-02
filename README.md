@@ -13,6 +13,7 @@ I'm a Full Stack developer and team lead who really loves Typescript and Linux. 
 
 <p align="center">
 
+<div>
 <a href="https://linkedin.com/in/nauelg#gh-light-mode-only"><img src="./img/linkedin-light.svg" alt="website"></a>
 <a href="https://linkedin.com/in/nauelg#gh-dark-mode-only"><img src="./img/linkedin-dark.svg" alt="website"></a>
 &nbsp;&nbsp;
@@ -21,6 +22,8 @@ I'm a Full Stack developer and team lead who really loves Typescript and Linux. 
 &nbsp;&nbsp;
 <a href="https://re7systems.com#gh-light-mode-only"><img src="./img/globe-light.svg" alt="website"></a>
 <a href="https://re7systems.com#gh-dark-mode-only"><img src="./img/globe-dark.svg" alt="website"></a>
+</div>
+
 
 </p>
 
