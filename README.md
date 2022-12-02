@@ -35,5 +35,3 @@ I'm a Full Stack developer and team lead who really loves Typescript and Linux. 
 
 <br />
 
-#### 💬&nbsp;&nbsp;&nbsp;Contact
-
