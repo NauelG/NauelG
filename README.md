@@ -28,7 +28,7 @@ I'm a Full Stack developer and team lead who really loves Typescript and Linux. 
 
 #### 💻&nbsp;&nbsp;&nbsp;Working on
 - Founder @ [Re7Systems](https://www.re7systems.com)
-- CTO @ [Housendar](https://www.housendar.com)
+- CTO @ [Ubikko](https://www.ubikko.com)
 - Teacher @ [Keepcoding](https://www.keepcoding.io)
 
 <br />
