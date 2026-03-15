@@ -4,8 +4,10 @@
 
 **Software Architect · Technical Strategist · Founder**
 
-*Building systems where technology creates real business value*  
+*Technology as a lever for business value*  
 Girona, Spain
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nauel%20Gómez-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nauelg)
 
 ---
 
@@ -13,13 +15,15 @@ Girona, Spain
 
 ## 🎯 What I do
 
-My work sits at the intersection of **engineering**, **product** and **business**.
+My work sits at the intersection of **technology**, **business** and **education**.
 
-I design and build **scalable systems, digital platforms and developer tools**, helping organizations use technology to unlock real value.
+I design and build **scalable systems, digital platforms and developer tools**, helping organizations turn technology into real business value.
 
-| **Engineering** | **Strategy & Products** | **Education** |
-|-----------------|-------------------------|---------------|
-| Scalable systems, developer platforms, modern web architectures | Digital products, MVPs, technical strategy | Backend engineering, TDD, architecture @ KeepCoding |
+These are the three pillars that define how I work:
+
+| **Technology** | **Business & Product** | **Education** |
+|----------------|------------------------|---------------|
+| Scalable systems, developer platforms, modern web architectures | Digital products, MVPs, technical strategy | Backend engineering, TDD, architecture, TypeScript |
 
 > **Philosophy:** technology is a *means*, not an end.
 
@@ -30,14 +34,14 @@ I design and build **scalable systems, digital platforms and developer tools**, 
 - **Manager** @ [MOD – Makers of Digital](https://mod.es/)  
   Digital product development, consulting and transformation.
 
+- **Co-founder** @ [My Natural Baby Box](https://mynaturalbabybox.com)  
+  Ecommerce and community focused on natural care for babies and mothers.
+
 - **Teacher** @ [KeepCoding](https://www.keepcoding.io)  
   Backend engineering, testing, architecture and modern JavaScript.  
   *Practical, real-world, case-based learning.*
 
-- **Co-founder** @ [My Natural Baby Box](https://mynaturalbabybox.com)  
-  Ecommerce and community focused on natural care for babies and mothers.
-
-- **Founder** @ [Codiara](https://codiara.com)
+- **Founder** @ [Codiara](https://codiara.com)  
   Software development, automation and scalable digital platforms.  
   Now part of **MOD – Makers of Digital**.
 
@@ -50,38 +54,6 @@ I design and build **scalable systems, digital platforms and developer tools**, 
 [Astro Blocks](https://github.com/NauelG/astro-blocks) — a **developer-first CMS for Astro**.
 
 A modular, block-based approach to content management designed to integrate naturally with modern Astro architectures.
-
----
-
-## 🛠 Tech Stack
-
-<table>
-<tr>
-<td><strong>Core</strong></td>
-<td>Astro · TypeScript · JavaScript · Python · SQL</td>
-</tr>
-
-<tr>
-<td><strong>Frontend</strong></td>
-<td>Astro · Angular · React · SvelteKit</td>
-</tr>
-
-<tr>
-<td><strong>Backend</strong></td>
-<td>Node.js · Express · REST APIs</td>
-</tr>
-
-<tr>
-<td><strong>Data</strong></td>
-<td>PostgreSQL · Drizzle ORM</td>
-</tr>
-
-<tr>
-<td><strong>Infrastructure</strong></td>
-<td>Docker · Kubernetes · OpenStack · GitLab CI/CD</td>
-</tr>
-
-</table>
 
 ---
 
@@ -102,7 +74,36 @@ For me:
 
 ---
 
+## 🛠 Tech Stack
+
+<table>
+<tr>
+<td><strong>Core</strong></td>
+<td>Astro · TypeScript</td>
+</tr>
+
+<tr>
+<td><strong>Frontend</strong></td>
+<td>Astro · Angular · React · SvelteKit</td>
+</tr>
+
+<tr>
+<td><strong>Backend</strong></td>
+<td>Node.js · NestJS · Express · REST APIs</td>
+</tr>
+
+<tr>
+<td><strong>Infrastructure</strong></td>
+<td>Docker · OpenStack · Proxmox · CI/CD</td>
+</tr>
+
+</table>
+
+---
+
 ## 🏗 Previous projects
+
+Projects that were valuable learning experiences:
 
 **Ubikko**  
 Workspace-sharing platform allowing companies to monetize unused office space.
@@ -112,15 +113,8 @@ Platform designed to digitize the home-buying process through coordinated schedu
 
 ---
 
-## 📬 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nauel%20Gómez-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nauelg)  
-[![X](https://img.shields.io/badge/X-@gnauel-000?style=flat&logo=x)](https://twitter.com/gnauel)
-
----
-
 <div align="center">
 
-**Architect · Builder · Educator**
+**Building at the intersection of Technology · Business · Education**
 
 </div>
