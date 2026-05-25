@@ -62,7 +62,7 @@ The full manifesto lives on [nauelgomez.com](https://nauelgomez.com).
 
 ### Astro Blocks
 
-[![Stars](https://img.shields.io/github/stars/NauelG/astro-blocks?style=flat&logo=github&label=stars)](https://github.com/NauelG/astro-blocks/stargazers) [![License](https://img.shields.io/github/license/NauelG/astro-blocks?style=flat)](https://github.com/NauelG/astro-blocks/blob/main/LICENSE) [![Last commit](https://img.shields.io/github/last-commit/NauelG/astro-blocks?style=flat)](https://github.com/NauelG/astro-blocks/commits)
+[![Stars](https://img.shields.io/github/stars/NauelG/astro-blocks?style=flat&logo=github&label=stars)](https://github.com/NauelG/astro-blocks/stargazers) [![License](https://img.shields.io/badge/license-BSL--1.1-blue?style=flat)](https://github.com/NauelG/astro-blocks/blob/main/LICENSE.md) [![Last commit](https://img.shields.io/github/last-commit/NauelG/astro-blocks?style=flat)](https://github.com/NauelG/astro-blocks/commits)
 
 [**astro-blocks**](https://github.com/NauelG/astro-blocks) — a developer-first CMS for Astro.
 
