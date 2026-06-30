@@ -68,6 +68,10 @@ The full manifesto lives on [nauelgomez.com](https://nauelgomez.com).
 
 A modular, block-based approach to content management designed to integrate naturally with modern Astro architectures. Built in TypeScript, opinionated about authoring DX without forcing a runtime database on you.
 
+### Writing & notes
+
+[**LLM Wiki — The Inbox Extension**](https://gist.github.com/NauelG/dcc8cfc9b78609a9b778cb5d391efdf6) — an extension to Karpathy's LLM Wiki letting multiple agent workspaces share a single wiki and feed knowledge back into it through an inbox write-back layer, with one maintainer keeping the wiki coherent.
+
 ---
 
 ## 🛠 Stack
